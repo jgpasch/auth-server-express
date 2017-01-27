@@ -1,0 +1,25 @@
+{
+  "name": "auth-server-express",
+  "version": "1.0.0",
+  "description": "a jwt based authentication server using express passport and mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgpasch/auth-server-express.git"
+  },
+  "author": "John Paschal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgpasch/auth-server-express/issues"
+  },
+  "homepage": "https://github.com/jgpasch/auth-server-express#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.8",
+    "morgan": "^1.7.0"
+  }
+}
