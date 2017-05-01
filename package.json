@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/jgpasch/auth-server-express#readme",
   "dependencies": {
+    "bcrypt": "^1.0.2",
     "body-parser": "^1.16.0",
     "express": "^4.14.0",
     "mongoose": "^4.7.8",
